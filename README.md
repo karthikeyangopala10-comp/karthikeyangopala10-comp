@@ -10,7 +10,7 @@ Want to get my Computer Science major from the University of Texas at Austin
 - Started using Visual Studio Code for my projects
 
 ## Current Projects
-- Resource Project
+- [Resource-Project](https://github.com)
 
 You can reach me with:
 - Email: karthikeyangopala10@gmail.com
