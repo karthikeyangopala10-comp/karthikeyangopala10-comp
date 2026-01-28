@@ -1,17 +1,17 @@
 ## Hi there 👋
 
-🎓 Student interested in Computer Science  
-💻 Learning Java and Python  
-🚀 Building projects and improving every day  
+I am Karthikeyan Gopalakrishnan
+I am a future data scientist or software engineer
+Want to get my Computer Science major from the University of Texas at Austin
 
-## Skills
+
+## Tools
 - Java
-- Python
+- Started using Visual Studio Code for my projects
 
-## Projects
-- 
+## Current Projects
+- Resource Project
 
-## Goals
-- Build strong programming foundations  
-- Create real-world projects  
-- Prepare for college CS
+You can reach me with:
+- Email: karthikeyangopala10@gmail.com
+- Phone Number: (737)-278-6171
